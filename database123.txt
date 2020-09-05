@@ -1,0 +1,16 @@
+show databases;
+create database dac2020;
+use dac2020;
+create table user
+(
+Firstname varchar(30),
+Lastname varchar(30),
+Email varchar(30),
+Password varchar(30),
+);
+
+
+insert into customers values
+
+
+("01","sayali","sayali@gmail.com","12ss");
